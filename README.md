@@ -2,11 +2,6 @@
 
 ###
 <div align="center">
-  <img src="https://profile-counter.glitch.me/lildiop2/count.svg?"  />
-</div>
-
-###
-<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=lildiop2.lildiop2&"  />
 </div>
 
@@ -39,11 +34,18 @@
 
 ###
 <div align="left">
+<a href="https://www.linkedin.com/in/abdul-kevin-alexis/" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+</a>
+<a href="https://www.youtube.com/channel/UCtKltJBkAWbM9kn1CS21HXw" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+</a>
+<a href="https://www.instagram.com/lildiop_lastman/" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://www.facebook.com/lildiop2" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+  </a>
 </div>
 
 ###
