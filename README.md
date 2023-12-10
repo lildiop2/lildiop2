@@ -1,4 +1,4 @@
-<p align="left">Hello Guys! I'm a junior full stack developer</p>
+<p align="left">Hello Guys! I'm a full stack developer</p>
 
 ###
 <div align="center">
