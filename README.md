@@ -1,4 +1,17 @@
-<p align="left">Hello Guys! I'm a full stack developer</p>
+<h1 align="left">Hi, I'm ABDUL KEVIN ALEXIS!</h1>
+
+<p>I'm a full-stack developer with a passion for building beautiful and functional web applications.</p>
+
+<p>I have experience in both front-end and back-end development, working with technologies like:</p>
+
+<ul>
+  <li>Front-end: HTML, CSS, JavaScript, Vue.js, etc.</li>
+  <li>Back-end: Node.js, Java, ShellScript, etc.</li>
+  <li>Databases: MySQL, PostgreSQL,  etc.</li>
+  <li>Deployment: GCP, AWS, Heroku, etc.</li>
+</ul>
+
+<p>I'm always eager to learn new things and collaborate on interesting projects. Check out my repositories below to see what I've been working on!</p>
 
 ###
 <div align="center">
@@ -32,6 +45,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original.svg" height="40" width="52" alt="handlebars logo"  />
 </div>
 
+###
+<p>Connect with me on:</p>
 ###
 <div align="left">
 <a href="https://www.linkedin.com/in/abdul-kevin-alexis/" target="_blank">
