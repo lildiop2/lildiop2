@@ -5,9 +5,9 @@
 <p>I have experience in both front-end and back-end development, working with technologies like:</p>
 
 <ul>
-  <li>Front-end: HTML, CSS, JavaScript, Vue.js, etc.</li>
+  <li>Front-end: HTML, CSS, JavaScript, Vue.js,Bootstrap, etc.</li>
   <li>Back-end: Node.js, Java, ShellScript, etc.</li>
-  <li>Databases: MySQL, PostgreSQL,  etc.</li>
+  <li>Databases: MySQL, PostgreSQL, Mongodb,  etc.</li>
   <li>Deployment: GCP, AWS, Heroku, etc.</li>
 </ul>
 
